@@ -1,0 +1,4 @@
+# Portfolio demo: allow crawling so the page-level noindex can be read.
+User-agent: *
+Allow: /
+# Add Sitemap: https://YOUR-VERCEL-DOMAIN/sitemap.xml after choosing a domain.
